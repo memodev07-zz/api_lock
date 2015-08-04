@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ApiLock::VERSION
   spec.authors       = ["Guillermo Arias"]
   spec.email         = ["garias.arrieta@gmail.com"]
-  spec.summary       = %q{Secure your API with JWT.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "Secure your API with JWT."
+  spec.description   = "Secure your API with JWT."
   spec.homepage      = ""
   spec.license       = "MIT"
 
